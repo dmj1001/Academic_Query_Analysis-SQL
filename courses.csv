@@ -1,0 +1,51 @@
+course_id,course_name,instructor,department,credits
+101,Database Systems,Dr. Mehta,Computer Science,4
+102,Linear Algebra,Dr. Iyer,Mathematics,3
+103,Microeconomics,Dr. Banerjee,Economics,3
+104,Modern Physics,Dr. Singh,Physics,4
+105,Creative Writing,Dr. Bose,English,2
+106,Operating Systems,Dr. Kumar,Computer Science,4
+107,Statistics,Dr. Rao,Mathematics,3
+108,Macroeconomics,Dr. Patel,Economics,3
+109,Quantum Mechanics,Dr. Das,Physics,4
+110,British Literature,Dr. Roy,English,2
+111,Data Structures,Dr. Nair,Computer Science,4
+112,Calculus,Dr. Sharma,Mathematics,3
+113,International Trade,Dr. Gupta,Economics,3
+114,Astrophysics,Dr. Iyer,Physics,4
+115,Poetry Analysis,Dr. Kapoor,English,2
+116,Computer Networks,Dr. Verma,Computer Science,4
+117,Discrete Math,Dr. Menon,Mathematics,3
+118,Development Economics,Dr. Rao,Economics,3
+119,Nuclear Physics,Dr. Das,Physics,4
+120,Drama Studies,Dr. Bose,English,2
+121,Machine Learning,Dr. Mehta,Computer Science,4
+122,Topology,Dr. Iyer,Mathematics,3
+123,Game Theory,Dr. Banerjee,Economics,3
+124,Electromagnetism,Dr. Singh,Physics,4
+125,Shakespeare Studies,Dr. Roy,English,2
+126,Compiler Design,Dr. Kumar,Computer Science,4
+127,Probability,Dr. Rao,Mathematics,3
+128,Public Finance,Dr. Patel,Economics,3
+129,Thermodynamics,Dr. Das,Physics,4
+130,Creative Nonfiction,Dr. Kapoor,English,2
+131,Artificial Intelligence,Dr. Nair,Computer Science,4
+132,Number Theory,Dr. Sharma,Mathematics,3
+133,Behavioral Economics,Dr. Gupta,Economics,3
+134,Optics,Dr. Iyer,Physics,4
+135,Modern Drama,Dr. Bose,English,2
+136,Cloud Computing,Dr. Verma,Computer Science,4
+137,Linear Programming,Dr. Menon,Mathematics,3
+138,Econometrics,Dr. Rao,Economics,3
+139,Classical Mechanics,Dr. Das,Physics,4
+140,Romantic Poetry,Dr. Roy,English,2
+141,Cybersecurity,Dr. Mehta,Computer Science,4
+142,Differential Equations,Dr. Iyer,Mathematics,3
+143,Environmental Economics,Dr. Banerjee,Economics,3
+144,Particle Physics,Dr. Singh,Physics,4
+145,World Literature,Dr. Bose,English,2
+146,Software Engineering,Dr. Kumar,Computer Science,4
+147,Abstract Algebra,Dr. Rao,Mathematics,3
+148,Digital Marketing,Dr. Kapoor,Business,3
+149,Environmental Science,Dr. Nair,Science,4
+150,Artificial Intelligence Applications,Dr. Das,Computer Science,4
